@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+tensorflow  # if using Deep Learning
+scikit-learn  # if using ML models
+numpy
+pandas
